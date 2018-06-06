@@ -1,0 +1,11 @@
+IUP is a multi-platform toolkit for building graphical user
+interfaces.  It offers APIs in three basic languages: C, Lua and LED.
+
+Its library contains about 100 functions for creating and manipulating
+dialogs.
+
+IUP's purpose is to allow a program to run in different systems
+without changes - the toolkit provides the application portability.
+Supported systems include: GTK+, Motif and Windows.
+
+WWW: http://webserver2.tecgraf.puc-rio.br/iup/
